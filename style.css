@@ -1,9 +1,9 @@
 :root {
     --back-color: #F1F0E8;
-    --navbar-color: #ADC4CE;
+    --navbar-color: #EEE0C9;
     --seagreen-color: #96B6C5;
     --gray-color: #979a9b;
-    --yellow-color: #EEE0C9;
+    --yellow-color: #ADC4CE;
     margin-top: 0px;
     scroll-behavior: smooth;
   }
