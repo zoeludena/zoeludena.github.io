@@ -14,7 +14,7 @@
   }
   
   h1 {
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     color: var(--seagreen-color);
     font-weight: 500;
     font-size: 70px;
@@ -22,7 +22,7 @@
   }
   
   h2 {
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     color: var(--seagreen-color);
     font-weight: 500;
     font-size: 18px;
@@ -39,7 +39,7 @@
   
   p {
     color: var(--seagreen-color);
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     font-weight: 400;
     font-size: 20px;
   }
@@ -81,7 +81,7 @@
   }
   
   ul {
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     color: var(--gray-color);
   }
   
@@ -313,7 +313,7 @@
   }
   
   .projects-description {
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     color: var(--yellow-color);
     text-align: center;
     font-weight: 500;
@@ -340,7 +340,7 @@
     padding: 15px 15px;
     background-color: var(--seagreen-color);
     color: var(--back-color);
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     font-weight: 800;
     font-size: 16px;
   }
@@ -353,14 +353,14 @@
     background-color: none;
     border: 2px solid var(--seagreen-color);
     color: var(--back-color);
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     font-weight: 600;
     font-size: 16px;
   }
   
   .acknowledgements {
     color: var(--seagreen-color);
-    font-family: "Victor Mono", monospace;
+    font-family: "Calistoga", monospace;
     font-weight: 600;
     font-size: 14px;
   }
