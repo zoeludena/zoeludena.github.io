@@ -248,7 +248,8 @@
     color: var(--yellow-color);
     font-weight: 500;
     font-size: 24px;
-  }
+    white-space: pre-line;
+  }  
   
   .activities-date {
     font-family: "Rubik", sans-serif;
