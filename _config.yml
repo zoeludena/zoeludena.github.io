@@ -1,0 +1,16 @@
+theme: minima
+
+include: 
+  - assets/css/styles.css
+  
+title: Zoe Ludena
+
+plugins:
+  - jekyll-theme
+
+header_pages:
+  - index.md
+  - experience.md
+  - projects.md
+
+author: Zoe Ludena
