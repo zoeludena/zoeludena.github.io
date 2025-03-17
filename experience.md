@@ -36,7 +36,14 @@ permalink: /experience/
 
 *Note:* To protect student anonymity if there were not enough evaluations for the class I was unable to see feedback.
 
-[📄 DSC 40A Fall 2024 Feedback](assets/files/DSC40A_FA24.pdf) | [📄 DSC 40A Spring 2024 Feedback](assets/files/DSC40A_SP24.pdf) | [📄 DSC 40A Spring 2024 Feedback 2](assets/files/DSC40A_SP24_2.pdf) | [📄 DSC 20 Winter 2024 Feedback](assets/files/DSC20_WI24.pdf) | [📄 DSC 20 Winter 2024 Feedback 2](assets/files/DSC20_WI24_2.pdf) | [📄 DSC 30 Fall 2023 Feedback](assets/files/DSC30_FA23.pdf) | [📄 DSC 10 Spring 2023 Feedback](assets/files/DSC10_SP23.pdf)
+- [📄 DSC 40A Fall 2024 Feedback](assets/files/DSC40A_FA24.pdf){:target="_blank"}
+- [📄 DSC 40A Spring 2024 Feedback](assets/files/DSC40A_SP24.pdf){:target="_blank"}
+- [📄 DSC 40A Spring 2024 Feedback 2](assets/files/DSC40A_SP24_2.pdf){:target="_blank"}
+- [📄 DSC 20 Winter 2024 Feedback](assets/files/DSC20_WI24.pdf){:target="_blank"}
+- [📄 DSC 20 Winter 2024 Feedback 2](assets/files/DSC20_WI24_2.pdf){:target="_blank"}
+- [📄 DSC 30 Fall 2023 Feedback](assets/files/DSC30_FA23.pdf){:target="_blank"}
+- [📄 DSC 10 Spring 2023 Feedback](assets/files/DSC10_SP23.pdf){:target="_blank"}
+
 </div>
 </details>
 
