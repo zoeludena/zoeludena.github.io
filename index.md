@@ -15,7 +15,7 @@ title: Zoe's Website
    </div>
 
    <img src="/assets/images/portrait.jpg" 
-        style="width: 150px; height: auto; border-radius: 10px; margin-left: 20px;">
+        style="width: 300px; height: auto; border-radius: 10px; margin-left: 20px;">
 </div>   
 
 #### A fun fact about me:  
