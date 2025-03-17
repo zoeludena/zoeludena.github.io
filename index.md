@@ -5,12 +5,12 @@ title: Who am I?
 
 # Zoe Ludena  
 
-![Profile Picture](images/portrait.jpg)
+![Profile Picture](/assets/images/portrait.jpg)
 
 ## Connect with Me  
-[![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/zoe-ludena/)  
-[![GitHub](./images/github.png)](https://github.com/zoeludena)  
-[![Email](./images/email.png)](mailto:zoeludena@gmail.com)  
+[![LinkedIn](/assets/images/linkedin.png)](https://www.linkedin.com/in/zoe-ludena/)  
+[![GitHub](/assets/images/github.png)](https://github.com/zoeludena)  
+[![Email](/assets/images/email.png)](mailto:zoeludena@gmail.com)  
 
 ## Navigation  
 - [About](#about)  
