@@ -14,7 +14,7 @@ permalink: /projects/
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-                See More
+                SeeRise Website
             </button>
         </a>
     </div>
@@ -32,7 +32,7 @@ permalink: /projects/
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-                See More
+                Research Paper
             </button>
         </a>
     </div>
@@ -50,7 +50,7 @@ permalink: /projects/
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-                See More
+                GitHub Repo
             </button>
         </a>
     </div>
@@ -68,7 +68,7 @@ permalink: /projects/
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-                View Paper
+                Research Paper
             </button>
         </a>
     </div>
@@ -86,7 +86,7 @@ permalink: /projects/
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-                See More
+                GitHub repo
             </button>
         </a>
     </div>
@@ -104,7 +104,7 @@ permalink: /projects/
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-                See More
+                GitHub Repo
             </button>
         </a>
     </div>
@@ -122,7 +122,7 @@ permalink: /projects/
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-                See More
+                GitHub Repo
             </button>
         </a>
     </div>
