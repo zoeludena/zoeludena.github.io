@@ -1,31 +1,10 @@
 ---
 layout: home
-title: Who am I?
+title: Zoe's Website
 ---
 
-## Connect with me!
-<div style="display: flex; align-items: center;">
-
-<a href="https://www.linkedin.com/in/zoe-ludena/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zoeludena/zoeludena.github.io/main/assets/images/linkedin.png" 
-         style="width: 50px; height: 50px; margin-right: 10px;">
-</a>
-
-<a href="https://github.com/zoeludena" target="_blank">
-    <img src="https://raw.githubusercontent.com/zoeludena/zoeludena.github.io/main/assets/images/github.png" 
-         style="width: 50px; height: 50px; margin-right: 10px;">
-</a>
-
-<a href="mailto:zoeludena@gmail.com">
-    <img src="https://raw.githubusercontent.com/zoeludena/zoeludena.github.io/main/assets/images/email.png" 
-         style="width: 50px; height: 50px;">
-</a>
-
-</div>
-
-
-# Hello there! 👋  
-# Welcome to my page! 
+## Hello there! 👋  
+## Welcome to my page! 
 
 ![Profile Picture](/assets/images/portrait.jpg)
 
