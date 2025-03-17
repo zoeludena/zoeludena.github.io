@@ -4,7 +4,6 @@ title: Zoe's Website
 ---
 
 ## Hello there! 👋  
-## Welcome to my page! 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     
@@ -18,7 +17,7 @@ title: Zoe's Website
         style="width: 300px; height: auto; border-radius: 10px; margin-left: 20px;">
 </div>   
 
-#### A fun fact about me:  
+### A fun fact about me:  
 Before college, I knew nothing about coding! From middle school to the end of high school, I studied opera and thought I would become a singer.  
 COVID, like for many others, turned my world upside down as I realized singing would be an unstable profession in the fear of another pandemic.  
 That being said, I have fallen in love with everything Data Science. I have had the greatest privilege of being taught and mentored by some of the finest minds at UCSD.  
