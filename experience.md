@@ -24,6 +24,21 @@ permalink: /experience/
 - Elevated team effectiveness by mentoring 3 new tutors and attending weekly staff meetings, fostering a collaborative and supportive environment.
 - Achieved consistent resolution of forum inquiries, answering 10+ questions weekly to clarify complex concepts in Python, Java, Pandas, and NumPy.
 
+<details>
+  <summary>💬 Standout Comments from Students</summary>
+
+  - *"SO friendly and kind and warm and encouraging- this particularly was so important in a rigorous class like DSC 40A where students (like myself) began to feel unsure/scared and fall behind. Zoe's genuine care about the students and passion for teaching was such a standout of this quarter. Not only was she very knowledgeable and explain things in a clear way, but she also gave constant encouragement and went above and beyond in reaching out to students and getting to know them and their academic needs on an individual level."*   (DSC40A, Spring 2024)
+  - *"THE ABSOLUTE GOAT. Zoe is hands down the best tutor of any of the DSC20 staff. A lot of tutors have to refer back to the answer key to solve problems, Zoe helps you brainstorm and work through them and doesn't need the answer key because she knows the material so well and is incredibly smart. She is also the nicest person ever and someone I felt very comfortable getting help from, she never made me feel stupid and created such a welcoming environment."* (DSC20, Winter 2024)
+  - *"Zoe is so caring and intelligent! Her biweekly office hours were the ones I made sure to attend regularly since she has been the sole tutor who will actually walk me through my errors during the debugging process in a manner that allows me to grasp from my mistakes the difficult concepts covered in class. Her support is a vital part of any success I’ve had thus far, so I’m very grateful!"* (DSC 30, Fall 2023)
+
+📂 **Full Reviews & Reports:**  
+
+*Note:* To protect student anonymity if there were not enough evaluations for the class I was unable to see feedback.
+
+[📄 DSC 40A Fall 2024 Feedback](assets/files/DSC40A_FA24.pdf) | [📄 DSC 40A Spring 2024 Feedback](assets/files/DSC40A_SP24.pdf) | [📄 DSC 40A Spring 2024 Feedback 2](assets/files/DSC40A_SP24_2.pdf) | [📄 DSC 20 Winter 2024 Feedback](assets/files/DSC20_WI24.pdf) | [📄 DSC 20 Winter 2024 Feedback 2](assets/files/DSC20_WI24_2.pdf) | [📄 DSC 30 Fall 2023 Feedback](assets/files/DSC30_FA23.pdf) | [📄 DSC 10 Spring 2023 Feedback](assets/files/DSC10_SP23.pdf)
+
+</details>
+
 ## Volunteering & Extracurriculars
 
 ### DS3 - Prof. Events Director
