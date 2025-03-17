@@ -3,7 +3,8 @@ layout: home
 title: Who am I?
 ---
 
-## <div style="display: flex; align-items: center;">
+## Connect with me!
+<div style="display: flex; align-items: center;">
 
 <a href="https://www.linkedin.com/in/zoe-ludena/" target="_blank">
     <img src="https://raw.githubusercontent.com/zoeludena/zoeludena.github.io/main/assets/images/linkedin.png" 
@@ -32,12 +33,7 @@ title: Who am I?
 I am currently an undergraduate student attending the University of California, San Diego. I am a Data Science Major in Revelle College with a Business Economics minor.  
 I am set to graduate in **Winter Quarter 2025**.  
 
-## Navigation  
-- [About](#about)  
-- [Experience](#experience)  
-- [Projects](#projects)  
-- [Skills](#skills)  
-- [Resume](assets/files/resume.pdf)  
+- [Resume](/assets/files/resume.pdf)  
 
 ---
 
