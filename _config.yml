@@ -3,7 +3,7 @@ theme: minima
 include: 
   - assets/css/styles.css
   
-title: Zoe Ludena
+title: ""
 
 plugins:
   - jekyll-theme
