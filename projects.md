@@ -19,6 +19,7 @@ permalink: /projects/
         </a>
     </div>
 </div>
+<p><br></p>
 
 ---
 
@@ -37,6 +38,7 @@ permalink: /projects/
         </a>
     </div>
 </div>
+<p><br></p>
 
 ---
 
@@ -55,7 +57,7 @@ permalink: /projects/
         </a>
     </div>
 </div>
-
+<p><br></p>
 ---
 
 ### Water Quality & Socioeconomic Status in CA  
@@ -73,6 +75,7 @@ permalink: /projects/
         </a>
     </div>
 </div>
+<p><br></p>
 
 ---
 
@@ -92,6 +95,7 @@ permalink: /projects/
     </div>
 </div>
 
+<p><br></p>
 ---
 
 ### LoL Model Building  
@@ -109,6 +113,8 @@ permalink: /projects/
         </a>
     </div>
 </div>
+
+<p><br></p>
 
 ---
 
