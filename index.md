@@ -6,17 +6,17 @@ title: Zoe's Website
 ## Hello there! 👋  
 ## Welcome to my page! 
 
-![Profile Picture](/assets/images/portrait.jpg)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    
+   <div style="max-width: 60%;">
+       <h4>My name is Zoe Ludena!</h4>
+       <p>I am currently an undergraduate student attending the University of California, San Diego. I am a Data Science Major in Revelle College with a Business Economics minor.</p>
+       <p>I am set to graduate in <strong>Winter Quarter 2025</strong>.</p>
+   </div>
 
-#### My name is Zoe Ludena!  
-I am currently an undergraduate student attending the University of California, San Diego. I am a Data Science Major in Revelle College with a Business Economics minor.  
-I am set to graduate in **Winter Quarter 2025**.  
-
-- [Resume](/assets/files/resume.pdf)  
-
----
-
-## About   
+   <img src="/assets/images/portrait.jpg" 
+        style="width: 150px; height: auto; border-radius: 10px; margin-left: 20px;">
+</div>   
 
 #### A fun fact about me:  
 Before college, I knew nothing about coding! From middle school to the end of high school, I studied opera and thought I would become a singer.  
