@@ -3,14 +3,34 @@ layout: home
 title: Who am I?
 ---
 
-# Zoe Ludena  
+## <div style="display: flex; align-items: center;">
+
+<a href="https://www.linkedin.com/in/zoe-ludena/" target="_blank">
+    <img src="https://raw.githubusercontent.com/zoeludena/zoeludena.github.io/main/assets/images/linkedin.png" 
+         style="width: 50px; height: 50px; margin-right: 10px;">
+</a>
+
+<a href="https://github.com/zoeludena" target="_blank">
+    <img src="https://raw.githubusercontent.com/zoeludena/zoeludena.github.io/main/assets/images/github.png" 
+         style="width: 50px; height: 50px; margin-right: 10px;">
+</a>
+
+<a href="mailto:zoeludena@gmail.com">
+    <img src="https://raw.githubusercontent.com/zoeludena/zoeludena.github.io/main/assets/images/email.png" 
+         style="width: 50px; height: 50px;">
+</a>
+
+</div>
+
+
+# Hello there! 👋  
+# Welcome to my page! 
 
 ![Profile Picture](/assets/images/portrait.jpg)
 
-## Connect with Me  
-[![LinkedIn](/assets/images/linkedin.png)](https://www.linkedin.com/in/zoe-ludena/)  
-[![GitHub](/assets/images/github.png)](https://github.com/zoeludena)  
-[![Email](/assets/images/email.png)](mailto:zoeludena@gmail.com)  
+#### My name is Zoe Ludena!  
+I am currently an undergraduate student attending the University of California, San Diego. I am a Data Science Major in Revelle College with a Business Economics minor.  
+I am set to graduate in **Winter Quarter 2025**.  
 
 ## Navigation  
 - [About](#about)  
@@ -21,14 +41,7 @@ title: Who am I?
 
 ---
 
-## About  
-
-### Hello there! 👋  
-### Welcome to my page!  
-
-#### My name is Zoe Ludena!  
-I am currently an undergraduate student attending the University of California, San Diego. I am a Data Science Major in Revelle College with a Business Economics minor.  
-I am set to graduate in **Winter Quarter 2025**.  
+## About   
 
 #### A fun fact about me:  
 Before college, I knew nothing about coding! From middle school to the end of high school, I studied opera and thought I would become a singer.  
