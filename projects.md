@@ -9,7 +9,7 @@ permalink: /projects/
     <img src="/assets/images/wave.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
-        <p>Developed a Streamlit application to visualize the impact of carbon dioxide levels on global temperatures and sea level rise, integrating emulator outputs for predictive modeling of Florida coastal flooding scenarios.</p>
+        <p>Developed a Streamlit application to visualize the impact of carbon dioxide levels on global temperatures and sea level rise, integrating emulator outputs for predictive modeling of Florida coastal flooding scenarios. Won Best Project Award at the HDSI <a href="https://dsc-capstone.org/showcase-25/" target="_blank">Capstone Showcase</a></p>
         <a href="https://zoeludena.github.io/SeeRiseWebsite/" target="_blank">
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
