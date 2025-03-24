@@ -1,16 +1,5 @@
 theme: minima
 
-social_links:
-    - title: "LinkedIn"
-      url: "https://www.linkedin.com/in/zoe-ludena/"
-      icon: "linkedin"
-    - title: "GitHub"
-      url: "https://github.com/zoeludena"
-      icon: "github"
-    - title: "Email"
-      url: "mailto:zoeludena@gmail.com"
-      icon: "envelope"
-
 include: 
   - assets/css/styles.css
   
@@ -19,9 +8,22 @@ title: ""
 plugins:
   - jekyll-theme
 
-header_pages:
+nav_pages:
   - index.md
   - experience.md
   - projects.md
 
-author: Zoe Ludena
+author:
+    name: Zoe Ludena
+    email: zoeludena@gmail.com
+
+social_links:
+  - title: "LinkedIn"
+    icon: "linkedin"
+    url: "https://www.linkedin.com/in/zoe-ludena/"
+  - title: "GitHub"
+    icon: "github"
+    url: "https://github.com/zoeludena"
+  - title: "Email"
+    icon: "envelope"
+    url: "mailto:zoeludena@gmail.com"
