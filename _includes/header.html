@@ -19,12 +19,9 @@
 
         <nav class="site-nav" style="display: flex; gap: 20px; margin-left: auto;">
             <a href="{{ site.baseurl }}/" style="color: #555555;">Home</a>
-            {%- for path in page_paths -%}
-                {%- assign page = site.pages | where: "path", path | first -%}
-                {%- if page.title -%}
-                    <a href="{{ page.url | relative_url }}" style="color: #555555;">{{ page.title }}</a>
-                {%- endif -%}
-            {%- endfor -%}
+            <a href="{{ site.baseurl }}/experience" style="color: #555555;">Experience</a>
+            <a href="{{ site.baseurl }}/projects" style="color: #555555;">Projects</a>
+<!--             <a href="https://dsc-capstone.org/showcase-25/" target="_blank" style="color: #555555;">Capstone Showcase</a> -->
             <a href="{{ site.baseurl }}/assets/files/resume.pdf" target="_blank" style="color: #555555;">Resume</a>
         </nav>  
 
