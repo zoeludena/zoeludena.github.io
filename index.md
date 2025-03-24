@@ -17,6 +17,14 @@ title: Zoe's Website
         style="width: 300px; height: auto; border-radius: 10px; margin-left: 20px;">
 </div>   
 
+<a href="/assets/files/resume.pdf" target="_blank">
+            <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+                Resume
+            </button>
+        </a>
+
 ### A fun fact about me:  
 Before college, I knew nothing about coding! From middle school to the end of high school, I studied opera and thought I would become a singer.  
 COVID, like for many others, turned my world upside down as I realized singing would be an unstable profession in the fear of another pandemic.  
