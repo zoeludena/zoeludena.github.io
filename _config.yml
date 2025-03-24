@@ -1,9 +1,13 @@
 theme: minima
 
+author:
+    name: Zoe Ludena
+    email: zoeludena@gmail.com
+
 include: 
   - assets/css/styles.css
   
-title: ""
+title: "Zoe's Website"
 
 plugins:
   - jekyll-theme
@@ -12,10 +16,6 @@ nav_pages:
   - index.md
   - experience.md
   - projects.md
-
-author:
-    name: Zoe Ludena
-    email: zoeludena@gmail.com
 
 social_links:
   - title: "LinkedIn"
