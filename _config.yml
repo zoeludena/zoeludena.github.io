@@ -1,3 +1,5 @@
+title: "Zoe's Website"
+
 theme: minima
 
 author:
@@ -6,8 +8,9 @@ author:
 
 include: 
   - assets/css/styles.css
-  
-title: "Zoe's Website"
+
+description: >
+  Welcome to my personal website! I'm Zoe Ludena, a passionate and data-driven professional with experience in environmental science, data analysis, and teaching. Here, you'll find an overview of my projects, my professional journey, and resources. Feel free to explore my experience, browse my latest projects, and get in touch!
 
 plugins:
   - jekyll-theme
