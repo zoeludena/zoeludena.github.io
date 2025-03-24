@@ -1,5 +1,5 @@
 <header class="site-header">
-    <div class="wrapper" style="display: flex; align-items: center; gap: 20px;">
+    <div class="wrapper" style="display: flex; align-items: center; justify-content: space-between;">
         <!-- Social Icons -->
         <div class="site-title">
             <a class="icon-spacing" href="https://www.linkedin.com/in/zoe-ludena/" target="_blank">
@@ -13,23 +13,24 @@
             </a>
         </div>
 
-        <!-- Hamburger Menu for Mobile -->
+        <!-- Hamburger Menu (Always visible on the right side) -->
         <input type="checkbox" id="nav-trigger" class="nav-trigger">
         <label for="nav-trigger" class="menu-icon">
             <span class="fas fa-bars fa-lg"></span>
         </label>
-
-        <nav class="site-nav">
-            <div class="nav-links">
-                <a href="{{ site.baseurl }}/">Home</a>
-                <a href="{{ site.baseurl }}/experience">Experience</a>
-                <a href="{{ site.baseurl }}/projects">Projects</a>
-                <a href="{{ site.baseurl }}/assets/files/resume.pdf" target="_blank">Resume</a>
-            </div>
-        </nav>
     </div>
 
-    <!-- Mobile Drawer -->
+    <!-- Navigation Links -->
+    <nav class="site-nav">
+        <div class="nav-links">
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/experience">Experience</a>
+            <a href="{{ site.baseurl }}/projects">Projects</a>
+            <a href="{{ site.baseurl }}/assets/files/resume.pdf" target="_blank">Resume</a>
+        </div>
+    </nav>
+
+    <!-- Mobile Drawer (For toggling on mobile) -->
     <div class="drawer-container">
         <div class="drawer">
             <a href="{{ site.baseurl }}/">Home</a>
@@ -41,21 +42,24 @@
 </header>
 
 <style>
-/* Hide the checkbox (it's used to trigger the mobile menu) */
+/* Ensure the checkbox is hidden */
 .nav-trigger {
     display: none;
 }
 
-/* Hamburger icon */
+/* Hamburger icon is always visible on the right side */
 .menu-icon {
-    display: none;
+    display: block;
     cursor: pointer;
     font-size: 24px;
     color: #555;
     padding: 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }
 
-/* Default navigation */
+/* Default navigation links */
 .site-nav {
     display: flex;
     gap: 20px;
@@ -86,23 +90,8 @@
     background: #f4f4f4;
 }
 
-/* Show menu when checked */
+/* Show mobile drawer when checkbox is checked */
 .nav-trigger:checked ~ .drawer-container {
     display: block;
-}
-
-/* Mobile responsiveness */
-@media (max-width: 768px) {
-    .site-nav {
-        display: none;
-    }
-    .menu-icon {
-        display: block;
-        margin-left: auto;
-    }
-    /* Make the drawer visible when the checkbox is checked */
-    .nav-trigger:checked ~ .drawer-container {
-        display: block;
-    }
 }
 </style>
