@@ -41,7 +41,7 @@
 </header>
 
 <style>
-/* Hide the checkbox */
+/* Hide the checkbox (it's used to trigger the mobile menu) */
 .nav-trigger {
     display: none;
 }
@@ -99,6 +99,10 @@
     .menu-icon {
         display: block;
         margin-left: auto;
+    }
+    /* Make the drawer visible when the checkbox is checked */
+    .nav-trigger:checked ~ .drawer-container {
+        display: block;
     }
 }
 </style>
