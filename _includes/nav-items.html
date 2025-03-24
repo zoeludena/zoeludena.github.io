@@ -1,6 +1,5 @@
-{%- for path in include.paths -%}
-  {%- assign hyperpage = site.pages | where: "path", path | first -%}
-  {%- if hyperpage.title and hyperpage.title != "Zoe's Website" -%}
-    <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
-  {%- endif -%}
-{%- endfor -%}
+<nav class="site-nav">
+  <a href="{{ site.baseurl }}/index">Home</a>
+  <a href="{{ site.baseurl }}/experience">Experience</a>
+  <a href="{{ site.baseurl }}/projects">Projects</a>
+</nav>
