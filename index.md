@@ -1,6 +1,6 @@
 ---
 layout: home
-title:
+title: Zoe's Website
 ---
 
 ## Hello there! 👋  
