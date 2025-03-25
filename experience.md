@@ -2,6 +2,7 @@
 layout: page
 title: Work Experience
 permalink: /experience/
+order: 2
 ---
 
 ## Professional Work
