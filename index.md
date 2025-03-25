@@ -1,6 +1,7 @@
 ---
 layout: home
 title: 🏠 Home
+order: 1
 ---
 
 ## Hello there! 👋 
