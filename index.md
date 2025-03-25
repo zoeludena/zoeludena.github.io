@@ -37,7 +37,7 @@ title: 🏠 Home
   </div>
 </div>
 
-<p>br</p>
+<p></p>
 
 I am a recent college graduate (as of March 2025). I was a Data Science Major in Revelle College with a Business Economics minor at University of California, San Diego.
 

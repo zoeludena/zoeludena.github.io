@@ -21,6 +21,8 @@ permalink: /projects/
     </div>
 </div>
 
+<p></p>
+
 ### Emulators Exploring the Climate
 
 <div style="display: flex; align-items: center; margin-top: 40px;">
@@ -37,6 +39,8 @@ permalink: /projects/
         </a>
     </div>
 </div>
+
+<p></p>
 
 ### Big O Explained
 
@@ -55,6 +59,8 @@ permalink: /projects/
     </div>
 </div>
 
+<p></p>
+
 ### Water Quality & Socioeconomic Status in CA
 
 <div style="display: flex; align-items: center; margin-top: 40px;">
@@ -71,6 +77,8 @@ permalink: /projects/
         </a>
     </div>
 </div>
+
+<p></p>
 
 ### Investigating Abortion Rates
 
@@ -89,6 +97,8 @@ permalink: /projects/
     </div>
 </div>
 
+<p></p>
+
 ### League of Legends Model Building
 
 <div style="display: flex; align-items: center; margin-top: 40px;">
@@ -105,6 +115,8 @@ permalink: /projects/
         </a>
     </div>
 </div>
+
+<p></p>
 
 ### League of Legends Soul Analysis
 
