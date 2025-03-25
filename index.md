@@ -8,7 +8,7 @@ title: 🏠 Home
 #### My name is Zoe Ludena!
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture", style="width:45%;">
+  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture" style="width: 45%;">
 </div>
 
 <a href="/assets/files/resume.pdf" target="_blank">
