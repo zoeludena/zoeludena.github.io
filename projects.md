@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### SeeRise  
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/wave.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
@@ -24,7 +24,7 @@ permalink: /projects/
 ---
 
 ### Emulators Exploring the Climate  
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/earth.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
@@ -43,7 +43,7 @@ permalink: /projects/
 ---
 
 ### Big O Explained  
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/donut-hype-eyes-closed.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
@@ -61,7 +61,7 @@ permalink: /projects/
 ---
 
 ### Water Quality & Socioeconomic Status in CA  
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/water.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
@@ -80,7 +80,7 @@ permalink: /projects/
 ---
 
 ### Investigating Abortion Rates  
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/looking_glass.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
@@ -98,8 +98,8 @@ permalink: /projects/
 <p><br></p>
 ---
 
-### LoL Model Building  
-<div style="display: flex; align-items: center;">
+### League of Legends Model Building  
+<div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/lol-logo.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
@@ -118,8 +118,8 @@ permalink: /projects/
 
 ---
 
-### LoL Soul Analysis  
-<div style="display: flex; align-items: center;">
+### League of Legends Soul Analysis  
+<div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/lol-logo.png" 
          style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
     <div>
