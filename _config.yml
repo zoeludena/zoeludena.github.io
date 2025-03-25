@@ -3,3 +3,11 @@ title: "Zoe's Website"
 theme: minima
 
 author: Zoe Ludena
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Work Experience"
+    url: "/experience/"
