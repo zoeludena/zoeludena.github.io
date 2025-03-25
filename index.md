@@ -8,7 +8,7 @@ title: 🏠 Home
 #### My name is Zoe Ludena!
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture" style="width: 45%; border-radius: 50%; object-fit: cover;">
+  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture" style="width: 45%;">
 
   <div style="display: flex; gap: 15px; margin-top: 20px;">
     <a href="https://github.com/zoeludena" target="_blank">
@@ -37,7 +37,7 @@ title: 🏠 Home
   </div>
 </div>
 
-
+<p>br</p>
 
 I am a recent college graduate (as of March 2025). I was a Data Science Major in Revelle College with a Business Economics minor at University of California, San Diego.
 

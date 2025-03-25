@@ -47,6 +47,8 @@ permalink: /experience/
 </div>
 </details>
 
+---
+
 ## Volunteering & Extracurriculars
 
 ### DS3 - Prof. Events Director
