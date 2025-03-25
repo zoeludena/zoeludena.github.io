@@ -19,7 +19,7 @@ title: 🏠 Home
       </button>
     </a>
 
-<a href="https://www.linkedin.com/in/zoeludena/" target="_blank">
+<a href= "https://www.linkedin.com/in/zoe-ludena" target="_blank">
     <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
             border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
