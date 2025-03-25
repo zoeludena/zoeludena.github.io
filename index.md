@@ -7,7 +7,9 @@ title: Home
 
 #### My name is Zoe Ludena!
 
-![Zoe_Picture](/assets/images/portrait.jpg)
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture">
+</div>
 
 I am a recent college graduate (as of March 2025). I was a Data Science Major in Revelle College with a Business Economics minor at University of California, San Diego.
 
