@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<div style="margin-top: 100px;">
     
 ### SeeRise  
 <div style="display: flex; align-items: center; margin-top: 40px;">
@@ -133,5 +132,4 @@ permalink: /projects/
             </button>
         </a>
     </div>
-</div>
 </div>
