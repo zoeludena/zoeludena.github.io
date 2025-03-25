@@ -3,3 +3,8 @@ title: "Zoe's Website"
 theme: minima
 
 author: Zoe Ludena
+
+nav_pages:
+- index.md
+- projects.md
+- experience.md
