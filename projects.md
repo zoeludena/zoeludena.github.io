@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 <div style="margin-top: 100px;">
+    
 ### SeeRise  
 <div style="display: flex; align-items: center; margin-top: 40px;">
     <img src="/assets/images/wave.png" 
