@@ -8,12 +8,8 @@ title: Home
 #### My name is Zoe Ludena!
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture">
+  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture", style="width:45%;">
 </div>
-
-I am a recent college graduate (as of March 2025). I was a Data Science Major in Revelle College with a Business Economics minor at University of California, San Diego.
-
-I am currently looking for a full time job in data analytics or engineering! Feel free to explore my website to learn a little bit more about me!
 
 <a href="/assets/files/resume.pdf" target="_blank">
             <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
@@ -22,3 +18,7 @@ I am currently looking for a full time job in data analytics or engineering! Fee
                 Resume
             </button>
         </a>
+
+I am a recent college graduate (as of March 2025). I was a Data Science Major in Revelle College with a Business Economics minor at University of California, San Diego.
+
+I am currently looking for a full time job in data analytics or engineering! Feel free to explore my website to learn a little bit more about me!
