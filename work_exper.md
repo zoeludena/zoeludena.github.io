@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💼 Work Experience
+title: 🖳 Work Experience
 permalink: /work_exper/
 order: 2
 ---
