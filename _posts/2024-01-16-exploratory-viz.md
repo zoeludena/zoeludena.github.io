@@ -4,7 +4,7 @@ title: How does the average inches of rainfall per month affect the number of Co
 author: Zoe Ludena
 ---
 
-![Visualization of CDDs and Rainfall in Miami, FL](/assets/images/cdds_rainfall.jpg)
+![Visualization of CDDs and Rainfall in Miami, FL](/assets/images/posts/cdds_rainfall.jpg)
 
 ## The Data
 - The `miami_climate.csv` has also been provided for you [here](/assets/files/posts/miami_climate.csv).
