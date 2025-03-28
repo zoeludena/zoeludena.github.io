@@ -2,7 +2,9 @@ title: "Zoe's Website"
 
 theme: minima
 
-author: Zoe Ludena
+author:
+  name: Zoe Ludena
+  email: zoeludena@gmail.com
 
 nav_pages:
 - index.md
