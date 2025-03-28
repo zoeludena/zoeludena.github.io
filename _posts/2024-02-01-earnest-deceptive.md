@@ -6,9 +6,19 @@ author: Zoe Ludena
 
 ## Which visualization is trying to deceive you?
 
-![Earnest](/assets/images/posts/a2_earnest.jpg)
-**OR**
-![Deceptive](/assets/images/posts/a2_deceptive.jpg)
+| **Option 1** | **Option 2** |
+|:--:|:--:|
+| ![Earnest](/assets/images/posts/a2_earnest.jpg) | ![Deceptive](/assets/images/posts/a2_deceptive.jpg) |
+
+<details>
+  <summary style="color: #003366;">Click for Answer!</summary>
+
+<div style="color: #003366;" markdown="1">
+Option 1 is the earnest or honest visualization and Option 2 is trying to deceive you!
+</div>
+</details>
+
+<p></p>
 
 ### Earnest Visualization Analysis
 
