@@ -9,7 +9,7 @@ order: 1
 #### My name is Zoe Ludena!
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/assets/images/portrait.jpg" alt="Zoe_Picture" style="width: 45%;">
+  <img src="/assets/images/portrait.jpeg" alt="Zoe_Picture" style="width: 45%;">
 
   <div style="display: flex; gap: 15px; margin-top: 20px;">
     <a href="https://github.com/zoeludena" target="_blank">
