@@ -56,7 +56,7 @@ order: 2
 
 ### DS3 - Prof. Events Director
 #### Professional Events Director @ Data Science Student Society  
-**May 2024 - Present**  
+**May 2024 - June 2025**  
 - Curating and hosting a diverse range of professional events, including panel discussions, workshops, and networking sessions with industry partners.
 - Building and maintaining professional relationships with sponsors, panelists, and speakers.
 - Exposing students to the diverse sectors of the data science field and providing them with a comprehensive understanding of industry applications and career pathways.
