@@ -7,9 +7,17 @@ order: 2
 
 ## Professional Work
 
+### SDSO - IT Specialist
+#### PowerBI Admin @ San Diego Sheriff's Office  
+**September 2025 - Present**  
+- Architect and maintain cloud-based Power BI reporting solutions—including contracts, facility maintenance, and operational dashboards—ensuring reliable, automated data refreshes through Azure Pipelines and Power Automate.
+- Enhance data quality and accessibility by designing and optimizing SQL databases that support enterprise reporting, including the modernization of legacy SSAS models into scalable cloud environments.
+- Provide organization-wide Power BI governance, mentoring teams and external groups on best practices for model design, automation, and cloud migration to elevate analytics maturity across departments.
+- Collaborate with stakeholders to translate operational needs into robust, actionable reporting tools that improve decision-making and operational oversight across the agency.
+
 ### SDSO - Student Worker
 #### Student Worker @ San Diego Sheriff's Office  
-**February 2024 - Present**  
+**February 2024 - September 2025**  
 - Identified patterns and anomalies in large, continuously growing text datasets by leveraging text machine learning techniques, Regex, Python, Pandas, and SQL.
 - Streamlined data processing by developing Azure-based pipelines to clean data incrementally, conduct sentiment analysis, and perform clustering, reducing manual effort by 90%.
 - Delivered actionable insights through PowerBI reports, enabling stakeholders and users to identify trends and anomalies across employees and text data, leading to improvement in operational efficiency.
