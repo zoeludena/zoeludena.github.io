@@ -40,6 +40,6 @@ order: 1
 
 <p></p>
 
-I am a recent college graduate (as of March 2025). I was a Data Science Major in Revelle College with a Business Economics minor at University of California, San Diego.
+I currently work for the San Diego Sheriff's Office as an IT Specialist, more specifically a PowerBI Admin!
 
-I am currently looking for a full time job in data analytics or engineering! Feel free to explore my website to learn a little bit more about me!
+I am a recent college graduate (as of March 2025). I was a Data Science Major in Revelle College with a Business Economics minor at University of California, San Diego.
