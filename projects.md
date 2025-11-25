@@ -5,12 +5,16 @@ permalink: /projects/
 order: 3
 ---
 ### Incarcerated Person Medical PowerBI and Databases
-<div style="display: flex; align-items: center; margin-top: 40px;"> <img src="/assets/images/db.png" style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;"> <div>
+<div style="display: flex; align-items: center; margin-top: 40px;"> <img src="/assets/images/db.png" style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;"> div>
 <p>Designed a scalable SQL database to support migration of medical analytics from an SSAS cube to a cloud-native Power BI solution. Improved data accessibility, reporting performance, and maintainability while aligning with the Sheriff’s Office modernization roadmap.</p>
+</div>
+</div>
 
 ### Facility Maintenance
 <div style="display: flex; align-items: center; margin-top: 40px;"> <img src="/assets/images/facility.png" style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;"> <div>
 <p>Developed a weekly-updated cloud reporting system to track facility maintenance issues across all Sheriff’s Office buildings. Leveraged Power Automate and Azure Pipelines to automate ingestion and geospatial mapping of incidents, enabling leadership to target high-risk facilities and reduce downtime.</p>
+</div>
+</div>
 
 ### Contracts for San Diego Sheriff's Office Grants Division
 <div style="display: flex; align-items: center; margin-top: 40px;">
@@ -18,6 +22,8 @@ order: 3
         style="clip-path: circle(); width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
 <div>
     <p>Created a cloud-based Power BI Contracts dashboard that tracks contract duration, remaining funds, and operational milestones for the Grants Division. Automated monthly refreshes using Azure Pipelines and Power Automate, eliminating manual reporting and improving financial visibility.</p>
+    </div>
+    </div>
 
 ### SeeRise
 
