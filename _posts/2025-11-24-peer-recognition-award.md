@@ -3,6 +3,7 @@ layout: post
 title: Employee Recognition Program Award
 author: Zoe Ludena
 ---
+![Award](/assets/images/posts/Peer Recognition Award.jpeg)
 
 ### Peer Recognition Award
 
