@@ -7,7 +7,7 @@ author: Zoe Ludena
 <p align="center">
   <img src="/assets/images/posts/DSD_MUA.JPEG" alt="Data Services Division Award" width="32%" />
   <img src="/assets/images/posts/Zoe_MUA.JPEG" alt="Personal Award" width="32%" />
-  <img src="/assets/images/posts/ZoeSheriff_MUA.jpeg" alt="Photo of Family and Sheriff" width="32%" />
+  <img src="/assets/images/posts/ZoeSheriff_MUA.jpg" alt="Photo of Family and Sheriff" width="32%" />
 </p>
 
 # Professional & Proud
