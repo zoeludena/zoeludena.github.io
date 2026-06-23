@@ -5,9 +5,10 @@ author: Zoe Ludena
 ---
 
 <p align="center">
-  <img src="/assets/images/posts/DSD_MUA.JPEG" alt="Data Services Division Award" width="32%" />
-  <img src="/assets/images/posts/Zoe_MUA.JPEG" alt="Personal Award" width="32%" />
-  <img src="/assets/images/posts/ZoeSheriff_MUA.jpg" alt="Photo of Family and Sheriff" width="32%" />
+<img src="/assets/images/posts/cpt_team_pic_mua.jpg" alt="Photo of CPT Team and Sheriff" width="25%" />
+  <img src="/assets/images/posts/DSD_MUA.JPEG" alt="Data Services Division Award" width="25%" />
+  <img src="/assets/images/posts/Zoe_MUA.JPEG" alt="Personal Award" width="25%" />
+  <img src="/assets/images/posts/ZoeSheriff_MUA.jpg" alt="Photo of Family and Sheriff" width="25%" />
 </p>
 
 # Professional & Proud
